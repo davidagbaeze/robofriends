@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "cascadia code"
+    "editor.fontFamily": "hack",
+    "editor.fontSize": 12
 }
